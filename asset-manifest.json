@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Mobillt/static/css/main.b79d49dc.css",
+    "main.js": "/Mobillt/static/js/main.c8ad50bd.js",
+    "static/js/787.c85afd0e.chunk.js": "/Mobillt/static/js/787.c85afd0e.chunk.js",
+    "static/media/mobill.png": "/Mobillt/static/media/mobill.c72cc1aa0ec7a7777664.png",
+    "static/media/payex.png": "/Mobillt/static/media/payex.631f65e3e434d13b8e07.png",
+    "static/media/CircularStd-Black.ttf": "/Mobillt/static/media/CircularStd-Black.5000f1578f504854c38a.ttf",
+    "static/media/swish.png": "/Mobillt/static/media/swish.248eb06e7482d7cb7020.png",
+    "static/media/mobill-logo.png": "/Mobillt/static/media/mobill-logo.ebc53b68d1d374542b08.png",
+    "static/media/EON.png": "/Mobillt/static/media/EON.bc841d1d9295328ce15c.png",
+    "static/media/google-play-badge.png": "/Mobillt/static/media/google-play-badge.b93fb075d08a654cfaaf.png",
+    "static/media/app-store-badge.png": "/Mobillt/static/media/app-store-badge.4f35bd27d79b27699870.png",
+    "index.html": "/Mobillt/index.html",
+    "main.b79d49dc.css.map": "/Mobillt/static/css/main.b79d49dc.css.map",
+    "main.c8ad50bd.js.map": "/Mobillt/static/js/main.c8ad50bd.js.map",
+    "787.c85afd0e.chunk.js.map": "/Mobillt/static/js/787.c85afd0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b79d49dc.css",
+    "static/js/main.c8ad50bd.js"
+  ]
+}
