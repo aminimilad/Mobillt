@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mobillt/static/css/main.4c002a95.css",
-    "main.js": "/Mobillt/static/js/main.30fa7619.js",
+    "main.js": "/Mobillt/static/js/main.de8d0709.js",
     "static/js/787.c85afd0e.chunk.js": "/Mobillt/static/js/787.c85afd0e.chunk.js",
     "static/media/mobill.png": "/Mobillt/static/media/mobill.c72cc1aa0ec7a7777664.png",
     "static/media/payex.png": "/Mobillt/static/media/payex.631f65e3e434d13b8e07.png",
@@ -15,11 +15,11 @@
     "static/media/app-store-badge.png": "/Mobillt/static/media/app-store-badge.4f35bd27d79b27699870.png",
     "index.html": "/Mobillt/index.html",
     "main.4c002a95.css.map": "/Mobillt/static/css/main.4c002a95.css.map",
-    "main.30fa7619.js.map": "/Mobillt/static/js/main.30fa7619.js.map",
+    "main.de8d0709.js.map": "/Mobillt/static/js/main.de8d0709.js.map",
     "787.c85afd0e.chunk.js.map": "/Mobillt/static/js/787.c85afd0e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c002a95.css",
-    "static/js/main.30fa7619.js"
+    "static/js/main.de8d0709.js"
   ]
 }
